@@ -139,11 +139,11 @@ Building secure, automated infrastructure — from Kubernetes home labs to serve
 
 ### 📌 Featured Projects
 
-<a href="https://github.com/BesteSevinc/secure-server-pipeline">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BesteSevinc&repo=secure-server-pipeline&hide_border=true&bg_color=00000000&title_color=01696F&icon_color=01696F&text_color=28251D" />
-</a>
 <a href="https://github.com/BesteSevinc/gastown">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=BesteSevinc&repo=gastown&hide_border=true&bg_color=00000000&title_color=01696F&icon_color=01696F&text_color=28251D" />
+</a>
+<a href="https://github.com/BesteSevinc/Auto-Claude">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=BesteSevinc&repo=Auto-Claude&hide_border=true&bg_color=00000000&title_color=01696F&icon_color=01696F&text_color=28251D" />
 </a>
 
 ---
